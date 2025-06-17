@@ -1,4 +1,19 @@
 body {
     background-color: rgb(15, 238, 227);
-    color:deeppink
+    color:rgb(241, 7, 132);
+
+    font-family: "Caprasimo", serif;
+
+}
+
+header {
+    font-size: 60;
+}
+
+h1 {
+    font-size: 30;
+}
+
+p {
+    font-size: 20;
 }
