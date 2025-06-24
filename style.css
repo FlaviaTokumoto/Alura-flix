@@ -1,13 +1,20 @@
 body {
     background-color: rgb(15, 238, 227);
-    color:rgb(241, 7, 132);
+    color: red;
 
     font-family: "Caprasimo", serif;
+
+    margin: 0px;
 
 }
 
 header {
     font-size: 60;
+    text-align: center;
+    border: dashed 5px red;
+    padding: 30px;
+    color: red; 
+
 }
 
 h1 {
